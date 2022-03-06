@@ -5,7 +5,7 @@
 
 
 <div align="center">  
-      <p> I use a code editor plugin called WakaTime to track the amount of time I spend coding. Here are <a href="https://www.wakatime.com/@sfetanat87">my stats</a> since March 16, 2021</p>
+      <p> I use a code editor plugin called WakaTime to track the amount of time I spend coding. Here are <a href="https://www.wakatime.com/@sfetanat87">my coding stats</a> since March 16, 2021</p>
       <table>
         <tr>
           <a href="https://wakatime.com/@sfetanat87">
