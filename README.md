@@ -20,7 +20,7 @@
 
 Here are a few things about me:
 
-- 🔭 I’m currently working on a clone of an app called Whisper
+- 🔭 I’m currently working on a clone of an app called Whisper using React Native (Typescript) & Firebase
 - 🌱 I’m currently learning how to create Native Android Modules and Components in React Native
 - 👯 I’m looking to collaborate on bigger projects that will help me level up my skills
 - 🤔 I’m looking for help with mentorship and help with landing my next dev role
